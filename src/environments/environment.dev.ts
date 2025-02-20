@@ -1,6 +1,5 @@
-// /cms/front-end/cms-frontend/src/environments/environment.ts
+// Example Dev Server (not yet available, but maybe in future...)
 export const environment = {
-    production: false,
-    apiUrl: 'http://localhost:8080/cms/api' // Match your Spring Boot context path
-    // Or http://localhost:8080/cms/contacts ?
-  };
+  production: false,
+  apiUrl: 'https://dev.devprojects.ch/cms/contacts'
+};
